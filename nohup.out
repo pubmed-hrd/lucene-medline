@@ -1,0 +1,621 @@
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -limit
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -limit
+limit:10, pwd:null, isAppend:true, indexPath:E:/Lucene
+-> Start reading 10 records[page 1 of 2757589]
+-> Finish reading from database in 0.72 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.069 seconds.
+
+-> Start reading 10 records[page 2 of 2757589]
+-> Finish reading from database in 0.657 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 3 of 2757589]
+-> Finish reading from database in 0.903 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 4 of 2757589]
+-> Finish reading from database in 0.887 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.015 seconds.
+
+-> Start reading 10 records[page 5 of 2757589]
+-> Finish reading from database in 0.772 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 6 of 2757589]
+-> Finish reading from database in 0.788 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 7 of 2757589]
+-> Finish reading from database in 0.7010000000000001 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 8 of 2757589]
+-> Finish reading from database in 0.686 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 9 of 2757589]
+-> Finish reading from database in 0.746 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.015 seconds.
+
+-> Start reading 10 records[page 10 of 2757589]
+-> Finish reading from database in 0.754 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 11 of 2757589]
+-> Finish reading from database in 0.677 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 12 of 2757589]
+-> Finish reading from database in 1.2630000000000001 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 13 of 2757589]
+-> Finish reading from database in 0.804 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.016 seconds.
+
+-> Start reading 10 records[page 14 of 2757589]
+-> Finish reading from database in 0.739 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 15 of 2757589]
+-> Finish reading from database in 0.9 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 16 of 2757589]
+-> Finish reading from database in 0.71 seconds
+-> Start indexing 10 pmid...
+-> Finish indexing in 0.0 seconds.
+
+-> Start reading 10 records[page 17 of 2757589]
+limit:100000, pwd:null, isAppend:true, indexPath:E:/Lucene
+-> Start reading 100000 records[page 1 of 275]
+-> Finish reading from database in 82.09 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.047 seconds.
+
+-> Start reading 100000 records[page 2 of 275]
+-> Finish reading from database in 59.112 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.411 seconds.
+
+-> Start reading 100000 records[page 3 of 275]
+-> Finish reading from database in 45.895 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.449 seconds.
+
+-> Start reading 100000 records[page 4 of 275]
+-> Finish reading from database in 79.427 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.005 seconds.
+
+-> Start reading 100000 records[page 5 of 275]
+-> Finish reading from database in 78.135 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.237 seconds.
+
+-> Start reading 100000 records[page 6 of 275]
+-> Finish reading from database in 74.839 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.537 seconds.
+
+-> Start reading 100000 records[page 7 of 275]
+-> Finish reading from database in 216.502 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.8500000000000005 seconds.
+
+-> Start reading 100000 records[page 8 of 275]
+-> Finish reading from database in 90.784 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.529 seconds.
+
+-> Start reading 100000 records[page 9 of 275]
+-> Finish reading from database in 144.998 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.183 seconds.
+
+-> Start reading 100000 records[page 10 of 275]
+-> Finish reading from database in 99.794 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.865 seconds.
+
+-> Start reading 100000 records[page 11 of 275]
+-> Finish reading from database in 119.773 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.137 seconds.
+
+-> Start reading 100000 records[page 12 of 275]
+-> Finish reading from database in 92.788 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.676 seconds.
+
+-> Start reading 100000 records[page 13 of 275]
+-> Finish reading from database in 102.512 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.367 seconds.
+
+-> Start reading 100000 records[page 14 of 275]
+-> Finish reading from database in 109.54 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.776 seconds.
+
+-> Start reading 100000 records[page 15 of 275]
+-> Finish reading from database in 123.524 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.14 seconds.
+
+-> Start reading 100000 records[page 16 of 275]
+-> Finish reading from database in 129.474 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.677 seconds.
+
+-> Start reading 100000 records[page 17 of 275]
+-> Finish reading from database in 127.009 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.487 seconds.
+
+-> Start reading 100000 records[page 18 of 275]
+-> Finish reading from database in 144.952 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.739 seconds.
+
+-> Start reading 100000 records[page 19 of 275]
+-> Finish reading from database in 150.30700000000002 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.006 seconds.
+
+-> Start reading 100000 records[page 20 of 275]
+-> Finish reading from database in 291.435 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.535 seconds.
+
+-> Start reading 100000 records[page 21 of 275]
+-> Finish reading from database in 195.626 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.876 seconds.
+
+-> Start reading 100000 records[page 22 of 275]
+-> Finish reading from database in 161.01500000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.727 seconds.
+
+-> Start reading 100000 records[page 23 of 275]
+-> Finish reading from database in 175.553 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 9.597 seconds.
+
+-> Start reading 100000 records[page 24 of 275]
+-> Finish reading from database in 106.165 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.871 seconds.
+
+-> Start reading 100000 records[page 25 of 275]
+-> Finish reading from database in 123.96300000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.648 seconds.
+
+-> Start reading 100000 records[page 26 of 275]
+-> Finish reading from database in 142.644 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.909 seconds.
+
+-> Start reading 100000 records[page 27 of 275]
+-> Finish reading from database in 174.889 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.621 seconds.
+
+-> Start reading 100000 records[page 28 of 275]
+-> Finish reading from database in 182.716 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.886 seconds.
+
+-> Start reading 100000 records[page 29 of 275]
+-> Finish reading from database in 190.522 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.269 seconds.
+
+-> Start reading 100000 records[page 30 of 275]
+-> Finish reading from database in 195.906 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.088 seconds.
+
+-> Start reading 100000 records[page 31 of 275]
+-> Finish reading from database in 173.651 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.913 seconds.
+
+-> Start reading 100000 records[page 32 of 275]
+-> Finish reading from database in 223.079 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.205 seconds.
+
+-> Start reading 100000 records[page 33 of 275]
+-> Finish reading from database in 233.33 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.632000000000001 seconds.
+
+-> Start reading 100000 records[page 34 of 275]
+-> Finish reading from database in 260.622 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.12 seconds.
+
+-> Start reading 100000 records[page 35 of 275]
+-> Finish reading from database in 331.524 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.172 seconds.
+
+-> Start reading 100000 records[page 36 of 275]
+-> Finish reading from database in 297.707 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.898000000000001 seconds.
+
+-> Start reading 100000 records[page 37 of 275]
+-> Finish reading from database in 228.631 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.713 seconds.
+
+-> Start reading 100000 records[page 38 of 275]
+-> Finish reading from database in 250.826 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.251 seconds.
+
+-> Start reading 100000 records[page 39 of 275]
+-> Finish reading from database in 154.952 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.743 seconds.
+
+-> Start reading 100000 records[page 40 of 275]
+-> Finish reading from database in 178.685 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.048 seconds.
+
+-> Start reading 100000 records[page 41 of 275]
+-> Finish reading from database in 293.177 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.977 seconds.
+
+-> Start reading 100000 records[page 42 of 275]
+-> Finish reading from database in 274.827 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.325 seconds.
+
+-> Start reading 100000 records[page 43 of 275]
+-> Finish reading from database in 285.053 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.1690000000000005 seconds.
+
+-> Start reading 100000 records[page 44 of 275]
+-> Finish reading from database in 208.067 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.061 seconds.
+
+-> Start reading 100000 records[page 45 of 275]
+-> Finish reading from database in 630.4300000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.283 seconds.
+
+-> Start reading 100000 records[page 46 of 275]
+-> Finish reading from database in 591.569 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.961 seconds.
+
+-> Start reading 100000 records[page 47 of 275]
+-> Finish reading from database in 538.726 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.047 seconds.
+
+-> Start reading 100000 records[page 48 of 275]
+-> Finish reading from database in 555.629 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.367 seconds.
+
+-> Start reading 100000 records[page 49 of 275]
+-> Finish reading from database in 587.912 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.997 seconds.
+
+-> Start reading 100000 records[page 50 of 275]
+-> Finish reading from database in 584.398 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.815 seconds.
+
+-> Start reading 100000 records[page 51 of 275]
+-> Finish reading from database in 974.844 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.049 seconds.
+
+-> Start reading 100000 records[page 52 of 275]
+-> Finish reading from database in 561.818 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.57 seconds.
+
+-> Start reading 100000 records[page 53 of 275]
+-> Finish reading from database in 576.951 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.218 seconds.
+
+-> Start reading 100000 records[page 54 of 275]
+-> Finish reading from database in 775.117 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.7 seconds.
+
+-> Start reading 100000 records[page 55 of 275]
+-> Finish reading from database in 583.4250000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.662 seconds.
+
+-> Start reading 100000 records[page 56 of 275]
+-> Finish reading from database in 673.804 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.061 seconds.
+
+-> Start reading 100000 records[page 57 of 275]
+-> Finish reading from database in 629.391 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.615 seconds.
+
+-> Start reading 100000 records[page 58 of 275]
+-> Finish reading from database in 597.097 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.8100000000000005 seconds.
+
+-> Start reading 100000 records[page 59 of 275]
+-> Finish reading from database in 584.66 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.97 seconds.
+
+-> Start reading 100000 records[page 60 of 275]
+-> Finish reading from database in 577.564 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.138 seconds.
+
+-> Start reading 100000 records[page 61 of 275]
+-> Finish reading from database in 715.981 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.915 seconds.
+
+-> Start reading 100000 records[page 62 of 275]
+-> Finish reading from database in 620.081 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.708 seconds.
+
+-> Start reading 100000 records[page 63 of 275]
+-> Finish reading from database in 672.926 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.494 seconds.
+
+-> Start reading 100000 records[page 64 of 275]
+-> Finish reading from database in 661.2760000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.493 seconds.
+
+-> Start reading 100000 records[page 65 of 275]
+-> Finish reading from database in 881.136 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.575 seconds.
+
+-> Start reading 100000 records[page 66 of 275]
+-> Finish reading from database in 823.437 seconds
+-> Start indexing 100000 pmid...
+Exception: value must not be null, Abstract [pmid=11091618, title=null, value=A comparative study of &sup201;Tl and &sup99m;Tc-methoxy-2 isobutyl isonitrile (&sup99m;Tc-MIBI)was performed in 39 breast tumors. &sup201;Tl scintigraphy was carried out in 24 breast tumors and &sup99m; Tc-MIBI scintigraphy in 15. The sensitivity of &sup201;Tl for malignant tumors was 100%(22/22), but specificity was 0%(0/2). On &sup99m;Tc-MIBI scintigraphy, the sensitivity for malignant tumors was 83.3%(10/12) and specificity was 100%(3/3). &sup99m;Tc-MIBI might be more useful for the diagnosis of breast tumors, because the tumor/background ratio of &sup99m;Tc-MIBI was significantly higher than that of &sup201;Tl. In addition, &sup201;Tl scintigraphy and &sup99m;Tc-MIBI scintigrtaphy showed the same degree of accuracy (93.3%) in detecting lymph node metastasis. Moreover, when either ultrasonography (US) with &sup201;Tl or &sup99m;Tc-MIBI scintigraphy was positive for lymph node metastasis, the accuracy of detection became 94.4% The combined use of ultrasonography and scintigraphy might improve the accuracy of diagnosis of lymph node metastasis., journalTitle=Breast cancer (Tokyo, Japan), date=19971225]
+-> Finish indexing in 6.738 seconds.
+
+-> Start reading 100000 records[page 67 of 275]
+-> Finish reading from database in 1055.638 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.95 seconds.
+
+-> Start reading 100000 records[page 68 of 275]
+-> Finish reading from database in 764.991 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.827 seconds.
+
+-> Start reading 100000 records[page 69 of 275]
+-> Finish reading from database in 796.654 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.548 seconds.
+
+-> Start reading 100000 records[page 70 of 275]
+-> Finish reading from database in 1038.916 seconds
+-> Start indexing 100000 pmid...
+Exception: value must not be null, Abstract [pmid=11441251, title=null, value=The major challenges in clinical oncological drug studies are to detect promising drug candidates early on in clinical drug development and to protect patients from adverse drug reactions of ineffective drugs. These challenges are met in the classical concept of clinical oncological drug trials in three phases. The aim of the present article is to provide a concise and comprehensive overview of the scientific logic of these 3 phases. Recent progress in the conception of clinical oncological drug studies was made in particular in phase I where the implementation of novel dose escalation procedures has led to a speeding up of phase I and an increase in the number of patients that receive an experimental drug in the therapeutic concentration range. However, the classical 3-phase concept of clinical oncological drug trials can not be transposed to trials with some novel anticancer drugs without critical reappraisal. It is therefore expected that this classical concept will undergo specific modifications in the near future. Copyright 2000 S. Karger GmbH, Freiburg, journalTitle=Onkologie, date=20001001]
+Exception: value must not be null, Abstract [pmid=11441254, title=null, value=The last years were characterized by efforts on the field of urological oncology: development of highly effective regimens for the curative treatment of metastatic diseases, improvement of diagnostic techniques based on monoclonal antibodies and molecularbiological techniques, development of operative techniques to improve quality of life in tumor patients. The cisplatin-based chemotherapy led to a dramatic improvement in patients with even extended testicular cancer disease and reflect one of the major highlights in urological oncology in the last century. Based on monoclonal antibodies and molecular techniques, diagnostic approach changed for prostatic carcinoma by using prostatic specific antigen (PSA) and for testicular cancer by determining alfa fetoprotein (AFP) and beta human choreongonadotropin (beta-HCG). These marker systems are of importance for treatment decision and follow up. Other efforts were revealed in the development of operative techniques with an improvement of quality of life (urinary bladder substitution, potency sparing operative techniques) and the possibility of organ preserving treatment in renal cell carcinoma. Copyright 2000 S. Karger GmbH, Freiburg, journalTitle=Onkologie, date=20001001]
+-> Finish indexing in 6.688 seconds.
+
+-> Start reading 100000 records[page 71 of 275]
+-> Finish reading from database in 823.9830000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 7.046 seconds.
+
+-> Start reading 100000 records[page 72 of 275]
+-> Finish reading from database in 811.628 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.476 seconds.
+
+-> Start reading 100000 records[page 73 of 275]
+-> Finish reading from database in 705.17 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.806 seconds.
+
+-> Start reading 100000 records[page 74 of 275]
+-> Finish reading from database in 670.775 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.111 seconds.
+
+-> Start reading 100000 records[page 75 of 275]
+-> Finish reading from database in 559.081 seconds
+-> Start indexing 100000 pmid...
+Exception: value must not be null, Abstract [pmid=11945280, title=null, value=The influence of the esterification of the 3'(2') hydroxyl group of tRNA on the hydrolysis by venom phosphodiesterase (Crotalus adamanteus) was studied. It was shown that this esterification does not change the rate of hydrolysis. At pH 7-8, no significant differences were observed either when the alpha amino group of the attached amino acid was free or blocked, or when the aminoacid contained a free carboxyl group or a second amino group (glutamic acid or lysine). Aminoacyl-AMP or oligopeptidyl-AMP can be prepared by this method., journalTitle=FEBS letters, date=19680801]
+Exception: value must not be null, Abstract [pmid=11945284, title=null, value=The nature of the carbohydrate-peptide linkage in the glycopeptides isolated after proteolytic digestion of the structural glycoproteins of the insoluble stroma of porcine and horse aorta was studied. The isolation and identification of 2-acetamido-1-(L-beta-aspartamido)-1,2-dideoxy-beta-D-glucose from an electrophoretically purified glycopeptide proves the presence of aspartamido-glucosaminidic linkage in these glycoproteins., journalTitle=FEBS letters, date=19680801]
+Exception: value must not be null, Abstract [pmid=11945322, title=null, value=A method for the preparation of UDP-glucose from HClO(4)-extract of diaphragm using paper-chromatography is described. It allows the quantitative determination of UDP-Glc by optical test and the measurement of its specific (14-C) activity simultaneously., journalTitle=FEBS letters, date=19681001]
+Exception: value must not be null, Abstract [pmid=11945327, title=null, value=A frog (Rana esculenta) hemoglobin has been purified and two types of chain have been separated by countercurrent distribution, N- and C-terminal sequences of each chain have been determines. The N-terminal amino acids are Acetyl-Ala and Gly. The acetylated chain seems to belong to the alpha-chain series and the glycine chain to the beta-chain series., journalTitle=FEBS letters, date=19681001]
+Exception: value must not be null, Abstract [pmid=11945346, title=null, value=Leucine aminopeptidase of bovine lens is a zinc metallo-enzyme. A zinc content of 5.0 - 7.6 g-atoms of Zn/M.W. 3.2 x 10(6) was estimated by labelling with 65Zn and by atomic absorption spectrophotometry. By continuous dialysis against o-phenanthroline zinc was almost completely removed. The enzymatically inactive "apo"-enzyme could not be reactivated by addition of Zn(2+). The binding of cadmium, manganeous and cobaltous ions was investigated. With some probability manganese is bound at an other site than zinc. The effect of pH and buffer ions on the binding of zinc to leucine aminopeptidase was demonstrated., journalTitle=FEBS letters, date=19700918]
+Exception: value must not be null, Abstract [pmid=11945356, title=null, value=A method of isolation of the isoenzyme BB of creatine kinase from ox stomach is described taking into account its high instability and the presence of notable amounts of tropomyosin in vertebrate smooth muscle extracts of low ionic strength. The molecular parameters of the enzyme isolated from ox stomach do not differ from those of the creatine kinases MM and BB of vertebrates. The amino acid composition and the peptide maps reveals significant differences from that of the ox brain isoenzyme BB., journalTitle=FEBS letters, date=19700918]
+Exception: value must not be null, Abstract [pmid=11945362, title=null, value=5'-Methylammonium-5'-deoxyadenosine is a poor subsrate for adenosine desaminase. The nucleoside was crystallized from aqueous methanol as its iodide monohydrate in space group P2(1). The structure was solved from three dimensional X-ray data and refined to R = 4.1%. The structure of the nucleoside is determined by an intramolecular hydrogen bond from N5' to N3 which implies that (1) the edenine heterocycle is in syn position with respect to the sugar moiety; (2) the ribose pucker is C2'-exo, C3'-endo and (3) the conformation about the C4'-C5' bond is trans, gauche. The water of hydration is fourfold disordered and forms a linear hydrophilic region which is surrounded by nucleoside molecules in a zigzag arrangement. The adenine heterocycles are not stacked and in closer than Van der Waals distance with iodine ions suggesting a charge transfer type interaction., journalTitle=FEBS letters, date=19700924]
+Exception: value must not be null, Abstract [pmid=11945376, title=null, value=Disintegration or altering of intact mitochondria or digitonin inner membrane + matrix particles causes an increase in K(+)-linked release of protons. This effect is not obtainable in the case of outer membranes. It is assumed, that also the inner membrane + matrix possesses exchange sites for K(+), which are freely accessible for the potassium ion if the structural integrity is damaged. The outer layer of inner membrane seems to be a barrier for the K(+)-movement., journalTitle=FEBS letters, date=19701005]
+Exception: value must not be null, Abstract [pmid=11945462, title=null, value=The A variant of bovine alpha(s1) casein is devoid of the segment of 13 amino acid residues which occupies the 14th to 26th position from the NH(2)-terminal in the polypeptide chain (198 residues) of the B and C variants., journalTitle=FEBS letters, date=19701118]
+Exception: value must not be null, Abstract [pmid=11945465, title=null, value=Isolated plastids (chloroplasts and etioplasts) that are morphogically intact and free of any contamination from other cell structures can incorporate label from sn-glycerol-3-phosphate-(14)C into monogalactosyldiglyceride., journalTitle=FEBS letters, date=19701118]
+Exception: value must not be null, Abstract [pmid=11945480, title=null, value=The contents of sterol derivatives (sterols + esters, glycosides and acylated glycosides) have been determined using thin layer chromatography in leaves and bulky and organs from carrots (Daucus carota L.) potato (Solanum tuberosum L.), onion (Allium cepa L.) two varieties of radish (Raphanus sativus L.) and Gentiana purpurea L. plants. Ether-soluble lipids of leaves contain 2.8-5.2%, those of storage tissue 3.1-8.9% sterol derivatives. The fractionation of lettuce (Lactuca sativa L., Burpee's Ruby Red) leaf homogenates indicates steryl glycosides to be accumulated in a microsomal fraction., journalTitle=FEBS letters, date=19701201]
+Exception: value must not be null, Abstract [pmid=11945497, title=null, value=Several authors have described the NBD-chloride (7-chloro-4-nitrobenzo-2-oxa-1,3-diazole) as a fluorogenic reagent of the amino groups and the sulfhydryl groups. It reacts rapidly with the trypsin to produce a stable and highly fluorescent conjugate. The determination of the labelled residues was made with thin layer chromatographies; the lysin residues were preferentially labelled.Fluorescence depolarization measurements of the conjugate were used to determine the brownian relaxation of the enzyme. The temperature dependence of the life-time is very strong and the corrected Perrin's plot demonstrates that the relaxation time of the enzyme decreases rapidly with the temperature.The conclusion is that the NBD-chloride can be used, like the DNS-chloride but is more reactive and stable and its fixation, on trypsin can be followed by measuring the absorbance of the dye at 470 nm., journalTitle=FEBS letters, date=19701211]
+Exception: value must not be null, Abstract [pmid=11945498, title=null, value=Tryptic hydrolysis of different arginine nitroanilides was studied. Para-nitroanilide is the most readily hydrolyzed substrate, ortho derivative is 5 times less sensitive and meta derivative is a very weak substrate. When the benzoyl group bound on the N(alpha) arginine of BAPNA is replaced by a carbobenzoxy group (L-ZAPNA), the tryptic hydrolysis is increased by a factor of 3. With this latter substrate, the kinetic constants are determined for two forms, native and Nepsilon-acetylated of porcine and bovine trypsin. Evidence is presented that the rate of hydrolysis is both related to the global and local charges of the enzyme., journalTitle=FEBS letters, date=19701211]
+Exception: value must not be null, Abstract [pmid=11945541, title=null, value=Presqualenyl-pyrophosphate (PSPP) was synthesized from farnesyl-pyrophosphate (FPP). The purified product could be transformed into a squalene in 90% yield. The structure of PSPP was established by the following experiments:1) PSPP displays a remarkably acid-labile phosphate-ester bond. Analogous to FPP it was possible to stabilize this bond by the addition of bromine. This indicates a structure of the allylester type.2) On acid hydrolysis PSPP splits off not only the pyrophosphate but also water. This may be best explained by the presence of a tertiary hydroxyl group in PSPP.3) The pyrophosphate group of PSPP could be split by prostatic phosphatase. In gas-liquid-chromatography the trimethyl-silylated product gave a single peak. From the mass spectra of this compound and of the corresponding alcohol the expected molecular weight of 426 could be verified for the latter.4) Determining the 3H/(14)C ratio in 1-(3)H(2)-4(14)C-FPP and in PSPP and squalene, synthesized from it, only three 3H-atoms could be detected in PSPP and in squalene.5) Ozonisation of PSPP, synthesized from 1-(14)C-FPP, gave radioactive malondialdehyde, which was characterised as azobenzene-malondialdehyde and 4-azobenzene-1-phenyl-pyrazole. The experimental results are in agreement with the following structure of 2, 6, 10, 15, 19, 23-hexamethyl-n-tetracosa-2, 6, 11, 14, 18, 22-hexaen-10-yl-pyrophosphate for PSPP., journalTitle=FEBS letters, date=19701223]
+Exception: value must not be null, Abstract [pmid=11945651, title=null, value=Three double mutants were prepared from single mutant chl-r strains of Escherichia coli K12 lacking nitrate reductase activity. When extracts of these three double mutants were mixed, nitrate reductase activity was reconstituted., journalTitle=FEBS letters, date=19710305]
+Exception: value must not be null, Abstract [pmid=11945687, title=null, value=Some rat liver fatty acid synthetase has been isolated from microsomal fraction. Enzyme activity and electro micrography of purified enzyme show that the microsomal enzyme was the same as that of the supernatant. These results are discussed in relation to the role of microsomes in the de novo synthesis of fatty acids synthesis in the cell., journalTitle=FEBS letters, date=19710322]
+Exception: value must not be null, Abstract [pmid=11945688, title=null, value=Mice were given glucose-U-(14)C and the radioactivity of triglyceride and phospholipid glycerol and fatty acids was measured 30 sec, 3 or 30 min after the i.v. administration in liver microsomes and supernatant. After the acetate administration the radioactivity of palmitic and stearic acids and that of their carboxyl carbons was also measured. The repartition of the radioactivity was discussed in relation with the localization of fatty acid synthesis. In agreement with our previous results it was suggested that the endoplasmic reticulum is the main site of this synthesis., journalTitle=FEBS letters, date=19710322]
+Exception: value must not be null, Abstract [pmid=11945718, title=null, value=A cell-free preparation was obtained from a culture of Mycobacterium avium. This preparation contained an L-alanine reductase which reduces L-alanine to L-alaninol, a constituant of the mycoside C(2). This reduction is better when ATP and NADH are present in the incubation medium., journalTitle=FEBS letters, date=19710412]
+Exception: value must not be null, Abstract [pmid=11945769, title=null, value=Two auxin oxidases with distinct antigenic specificities have been identified in extracts of plant tumor induced in Datura stramonium by Agrobacterium tumefaciens. Auxin oxidase and peroxidase activities are demonstrated for both enzymes. The adaptation of an immunochemical method allows the quantitative evaluation of both enzymes in different plant tissue extracts. The amount of these enzymes which is low in the organ of the healthy plant increases during tumorisation, healing and in vitro culture of healthy tissues., journalTitle=FEBS letters, date=19710510]
+Exception: value must not be null, Abstract [pmid=11945772, title=null, value=In the extracts of Quercus pedunculata roots, the activities of 5-dehydroquinate hydro-lyase and shikimate: NADP oxydoreductase are eluted in the same fractions whatever separation procedures are used: chromatography on Sephadex G 100, DEAE cellulose and hydroxylapatite, centrifugation in sucrose density gradient, disc electrophoresis. These results are closely related to those obtained on the aggregate of enzymes involved in the shikimate pathway in Neurospora crassa. The molecular weight of the association determined by gel filtration is about 55,000., journalTitle=FEBS letters, date=19710510]
+Exception: value must not be null, Abstract [pmid=11945797, title=null, value=A component with high molecular weight is prepared from commercial bovine insulin by gel filtration on Sephadex G 50. The substance has little biological and immunological activity in comparison to insulin. The activity is not changed by incubation with trypsin. It associates in 1 M CH(3)COOH and possesses a molecular weight of 28,500 as shown by ultracentrifugation. The ability of the component to precipitate with bovine insulin antibodies demonstrates that it contains immunologically active insulin-like proteins and is not a homogenous substance., journalTitle=FEBS letters, date=19710520]
+Exception: value must not be null, Abstract [pmid=11945967, title=null, value=DNSA (1-Dimethylamino-naphthelene-5-sulfonamide) forms with carbonic anhydrase (carbonate hydrolase, EC 4.2.1.1) a highly fluorescent complex [1]. We used the formation of these complexes for the detection of the isoenzyme bands of carbonic anhydrase in isoelectric focusing and electrophoresis in acrylamide gels. DNSA is added to the solution of the isoenzymes before separation. Using quartz tubes - the maximum of the excitation spectrum is 280 nm [1] - for supporting the gels the fluorescent enzyme bands can be observed during development in UV light and without putting the gels out of the quartz tubes. This technique allows the detection of the carbonic anhydrase isoenzymes with greater precision and simplicity than with any staining method., journalTitle=FEBS letters, date=19710901]
+Exception: value must not be null, Abstract [pmid=11946074, title=null, value=The interaction of caffeine with DNA has been studied at several ionic strengths by heat denaturation. At 2 mM K(+) caffeine produces a stabilization, but at 20 mM K(+) or higher a destabilization of secondary structure of DNA occurs. There is a correlation between heterogeneity and destabilization of DNA in presence of caffeine. In the premelting region a hyperchromic effect can be observed. It is suggested that two binding processes exists in the DNA-caffeine interaction., journalTitle=FEBS letters, date=19711015]
+Exception: value must not be null, Abstract [pmid=11946095, title=null, value=Cytochrome c of the zebra (Equus guagga Boehmi) differs from horse cytochrome c in having in its polypeptide chain one serine residue instead of none and 9 threonine residues instead of 10. This replacement has been localised at position 47 of the sequence., journalTitle=FEBS letters, date=19711015]
+Exception: value must not be null, Abstract [pmid=11946163, title=null, value=Occurence of PAL, cinnamate-hydroxylase and p-coumarate-hydroxylase, is found in cell-free extracts from Quercus pedunculata roots; moreover, an enzyme system which catalyzes benzoïc acid formation from cinnamic acid is caracterized for the first time. Role of these enzymes and their interactions within the same organ are discussed., journalTitle=FEBS letters, date=19711115]
+Exception: value must not be null, Abstract [pmid=11946171, title=null, value=Candida tropicalis strain 101 possesses a hydroxylase system when grown on tetradecane as the carbon source which is active towards hydrocarbons and fatty acids. This system including cytochrome P(450) and NADPH-cytochrome c reductase has been localized exclusively in the microsomal fraction., journalTitle=FEBS letters, date=19711115]
+Exception: value must not be null, Abstract [pmid=11946178, title=null, value=It is shown that the iso-1 and iso-2 cytochromes c synthesized by two strains of respiratory deficient strains of yeast (varrho(-)) possess one residue of epsilonN-trimethyllysine and do not differ in this respect from the iso-cytochromes produced by varrho(+) strains. This result excludes the possibility that the methylation reaction is linked to respiratory activity or to the varrho(+) factor., journalTitle=FEBS letters, date=19711115]
+Exception: value must not be null, Abstract [pmid=11946223, title=null, value=We have applied successfully the active enzyme analytical centrifugation method (A.E.C.) to the study of the well known pyruvate dehydrogenase complex (P.D.C.) in crude extracts from E. coli. It is not possible to study the complex in a spectrophotometer (through its dehydrogenase activity) due to NADH oxidase activities. The A.E.C. method, which overcomes this difficulty, can also be viewed as a refined spectrophotometric method., journalTitle=FEBS letters, date=19711215]
+Exception: value must not be null, Abstract [pmid=11946256, title=null, value=The blockage of the carboxyl groups of a pancreatic trypsin inhibitor (inhibitor of Kunitz) has been performed with a water-soluble carbodiimide and glycine ethyl ester. The inhibitor has five carboxyl groups located on residues Asp(3), Glu(7), Glu(49), Asp(50) and Ala(58). When the reaction is carried out on native inhibitor or on inhibitor treated with 8 M urea, approximately 3 moles of glycine ethyl ester are introduced but 4, 3 residues can be incorporated into performic acid oxidized inhibitor. Fully active derivatives with a complete substitution of the C-terminal residue can be obtained. It may be concluded that the C-terminal carboxyl group is not involved in the binding with trypsin., journalTitle=FEBS letters, date=19681101]
+Exception: value must not be null, Abstract [pmid=11946267, title=null, value=After synthesis of short, nascent oligonucleotide in the presence of (32P)DNA, GTP, CTP, UTP and 3'dATP, one can excise with deoxyribonuclease a ternary complex of RNA polymerase, protected DNA and oligonucleotide, while the enzyme simply bound to the template is removed by increasing the ionic strength. This ternary complex is retained on nitrocellulose membranes. On polyacrylamide gel electrophoresis it migrates faster than RNA polymerase alone. The protected portion of the DNA is constituted of about 75 nucleotides. It might represent the sites for RNA initiation., journalTitle=FEBS letters, date=19681101]
+Exception: value must not be null, Abstract [pmid=11946290, title=null, value=Bovine insulin can be split into several fractions by gel filtration on Sephadex G50. These are, in order of decreasing molecular weight, a new unidentified substance, proinsulin, and a large fraction containing several substances. Ultracentrifugal examination of the proinsulin in acetic acid solution (pH 2.3) gave a molecular weight of 9300 and evidence of an association-dissociation equilibrium., journalTitle=FEBS letters, date=19681201]
+Exception: value must not be null, Abstract [pmid=11946292, title=null, value=The terminal cis-glycol-group of phenylalanine specific tRNA (tRNA(Phe), I) from yeast was oxidized to the dialdehyde by NaIO(4) (tRNA(Phe)(oxi), II) and subsequently reduced to the diol by NaBH(4) (tRNA(Phe)(oxi-red), III). In charging experiments it could be shown that tRNA(Phe)(oxi-red) is still completely specific for phenylalanine. The Michaelis constant of tRNA(Phe)(oxi-red) remains unchanged when compared with tRNA(Phe), while the maximun velocity of charging upsilon(max) of tRNA(Phe)(oxi-red) is decreased to about one half., journalTitle=FEBS letters, date=19681201]
+Exception: value must not be null, Abstract [pmid=11946319, title=null, value=We have shown the existence in rat liver of free light cytoplasmic particles containing a stable, rapidly labelled RNA. These particles differ from the 45 S ribosomal fraction by several characters.The buoyant density and sedimentation properties suggest that these particles are similar to dRNA ribonucleoprotein particles released from polysomes and to those present in rat liver nuclei., journalTitle=FEBS letters, date=19690201]
+Exception: value must not be null, Abstract [pmid=11946320, title=null, value=It is well known that, in rabbits, the allotypes of the b locus carried by the light chains of the IgG molecules cross-react. Nothing similar has been described for the allotypes of the a locus carried by the heavy chains of the IgG molecules. This paper describes a cross-reaction between the rabbit allotypic markers Aa1 and Aa2 of the a locus. This phenomenon became evident in successive I(125)-labelled IgG precipitation experiments with a particular serum., journalTitle=FEBS letters, date=19690201]
+Exception: value must not be null, Abstract [pmid=11946325, title=null, value=Chromatography on carboxymethylcellulose of the trichloracetic extract "F(1)" of chicken erythrocytes nuclei, yields two histone fractions: F(1)-cF(1) the very lysine-rich histone and F(1)-cF(3), the fraction specific to erythrocytes.Aminoacid analysis and disc electrophorosis on extracts "F(1)" demonstrate that specific histone fraction F(1)-cF(3) occurs in smaller percentage in the early stages of chicken development; it increases from 6% (by weight of the total DNA) in 3 days old chicken to 16% in 21 days old chicken. But the percentage of F(1)-cF(1) fraction (8% by weight of total DNA) remains constant in the same conditions., journalTitle=FEBS letters, date=19690201]
+Exception: value must not be null, Abstract [pmid=11946336, title=null, value=The synthesis of fatty acids in mitochondria, microsomes and supernatant of mice liver was studied after administration of glucose 14C or (3)H, acetate 14C or 3H and pyruvate 14C.The results suggest that the cellular structures corresponding to the microsomes are the major site of fatty acid synthesis in the liver in vivo., journalTitle=FEBS letters, date=19690301]
+Exception: value must not be null, Abstract [pmid=11946428, title=null, value=Fatty acids of acyl steryl glycoside (acyl SG) of different plants producing both green and photosynthetically inactive tissue have been analyzed. The major components are in all cases 16:0, 18:2 and 18:3 acids. The fatty acid composition of acyl SG of green parts is very similar to that of etiolated, pale or storage tissue of the same plant. Generally the degree of saturation of acyl SG is higher than that of the corresponding total lipid. Acyl SG tends to be more saturated in green parts than in colorless tissues of the same plant. Conversely, total lipid of green tissue containing large amounts of galactolipids and 18:3 acid is much less saturated than that of photosynthetically inactive tissue. Though containing smaller amounts of 18:3, and in some cases unsaturated C(16) acids, acyl SG does not reflect the drastic increase of these acids in the total lipid of green tissue. It is concluded that fatty acids of acyl SG originate mainly from an acyl donor other than chloroplast galactolipids., journalTitle=FEBS letters, date=19720201]
+Exception: value must not be null, Abstract [pmid=11946514, title=null, value=We report here the presence in human milk fat globules membranes of 5'-nucleotidase, Na(+)-K(+) and Mg(2+) ATPases, and phosphodiesterase which are marker enzymes for the plasma membrane. Thiamine-pyrophosphatase, lactose and lactosamine synthetase were also found, which are usually considered as Golgi apparatus marker enzymes. Lastly, glucose-6-phosphatase, NADH-cytochrome c reductase and RNase, characteristic enzymes of the endoplasmic membrane, were also present., journalTitle=FEBS letters, date=19720315]
+Exception: value must not be null, Abstract [pmid=11946517, title=null, value=Electrofocusing procedure resolves phenolase of oak's bark in three distinct major isozymes showing cresolase and catecholase activities. Their pI are: 6, 7.8 and 8.2. Little change in ratio of the two activities occurs during isoelectric separation. The ultracentrifuged isozymes exhibit sedimentation constant similar to the crude enzyme phenolase., journalTitle=FEBS letters, date=19720315]
+Exception: value must not be null, Abstract [pmid=11946575, title=null, value=The binding constants of the alpha(1)-foetoprotein of the rat embryo serum for oestrone and oestradiol-17beta have similar values, i.e. 1 x 10(8) M(-1) in average at 25 degrees. There is probably one binding site per mole of binding protein. The high alpha(1)-foetoprotein concentration in the rat embryo serum at 17-19 days of pregnancy explains the exceptionally high levels of fixation of the phenolsteroids by this serum., journalTitle=FEBS letters, date=19720415]
+Exception: value must not be null, Abstract [pmid=11946635, title=null, value=The high molecular weight arylamidase-alkaline phosphatase-complex from rat kidney microsomes [1] was carefully dissociated by means of treatment with several hydrolytic enzymes or by acidification. Trypsin, chymotrypsin and pronase cause a selective solubilization of the enzymes discernible at their different electrophoretic mobility in polyacrylamide gel. The lower migrating zone represents phosphatase, the faster migrating zone shows arylamidase activity (molecular weights 180,000 and 172,000, respectively). Incubation of the complex with papain, lipase, neuraminidase or hyaluronidase and incubation at acid conditions (pH optimum 5.0) in the absence of any enzyme also yields in the appearance of two protein bands. In contrast to the alkaline hydrolases the acid hydrolases, the pH 5-treatment and with a certain degree also the lipase liberate a second arylamidase zone lying in the phosphatese containing zone during polyacrylamide gel electrophoresis. Treatment with SDS and subsequent SDS-polyacrylamide gel electrophoresis also results in a dissociation of the complex, but only in one protein fragement (approx, molecular weight 205,000)., journalTitle=FEBS letters, date=19720515]
+Exception: value must not be null, Abstract [pmid=11946669, title=null, value=1. The energy-independent exchange of alkali metal cations against protons was investigated in intact and disintegrated mitochondria. The exchange is not specific for different alkali metal ions.2. In intact mitochondria the apparent K(m) for the energy-independent exchange range from 5 to 25 mM (Cs(+), Rb(+), K(+) 5-10 mM; Na(+) 15 mM; Li(+) 20 mM). At all ions studied the maximum release of protons was 15-20 nval/mg protein.3. In disintegrated mitochondria there are no differences between the alkali metal ions (apparent K(m) 30 mM; maximum H(+)-release 50 nval/mg protein).4. Directly accessible binding sites seem to exist in the outer membrane. Binding sites in the inner membrane are accessible only after disintegration, but not after addition of valinomycin + rotenone., journalTitle=FEBS letters, date=19720801]
+Exception: value must not be null, Abstract [pmid=11946946, title=null, value=Incubation of liver nuclei from hepatectomised rats with radioactive amino acids shows that the rates of synthesis of the globular and residual protein fractions increase linearly for up to 24 hr after hepatectomy, whereas the histones show maximal incorporation at 15 hr., journalTitle=FEBS letters, date=19730201]
+Exception: value must not be null, Abstract [pmid=11946986, title=null, value=3',5'-Cyclic AMP inhibits fatty acid synthesis in mitochondria, microsomes and supernatant but does not provoke an enrichment in 3H with regard to 14C as it occurs during fasting after glucose 6-(3)H or 6-(14)C administration. Insulin does not exert any action on "controls" but restores lipogenesis in fasted animals in the examinated fractions and normalises the 3H/(14)C ratio, even that of microsomes. Control of neoglucogenesis by this hormone is more likely than by 3',5'-cyclic AMP., journalTitle=FEBS letters, date=19690401]
+Exception: value must not be null, Abstract [pmid=11947041, title=null, value=The interaction of Actinomycin C(1) (AM) with purine nucleosides was investigated by circular dichroism. While dG and dGMP show identical interactions, rG, rGMP and 8-aza-GMP show lower tendency for complex formation. ara-G shows no complex formation. 6-Thio-GMP shows the strongest affinity for AM in accordance with previous results. Substitution on N-7 (methylation, protonation) or C-8 (8-Br-rG, 8-SH-rG) eliminate completely the complexing capacity. Another type of weaker complexes is formed by dA, dAMP and rIMP, indicated by the appearance of a positive band at 440 nm. It is concluded that in these complexes both the electron donor capacity of the purine base as well as the steric flexibility of the sugar around the glycosidic linkage determine their complexing capacity., journalTitle=FEBS letters, date=19690601]
+Exception: value must not be null, Abstract [pmid=11947135, title=null, value=The complex formed between trypsin and alpha(2)-macroglobulin retains the whole hydrolytic activity for benzoylarginine-p-nitroanilide (DL BAPNA). We have observed that the inhibition of this activity is dependent on the inhibitor used. While soya bean inhibitor (MW = 20 000) is ineffective, the basic pancreatic inhibitor (MW = 6 500) progressively inhibits the complex. In this latter case, we have observed the formation of a very weakly active ternary compound by two methods: kinetic and fluorescence polarization.Such differences suggest either that the contact site of trypsin for binding is not the same for each inhibitor or that the steric hindrance by macroglobulin prevents large inhibitors from reaching the active site. The pancreatic inhibitor can reach this site but its affinity is lower for the complex than for free trypsin., journalTitle=FEBS letters, date=19690701]
+Exception: value must not be null, Abstract [pmid=11947153, title=null, value=The repeating disaccharide unit of the mucopeptide of the cell wall of Mycobacterium smegmatis contains N-acetyl-glucosamine linked to N-glycolyl-muramic acid. This first identification of N-glycolyl-muramic acid as a natural product has been performed by mass spectrometry of the permethylated disaccharide. N-glycolyl muramic acid has been synthesized: the natural and synthetic products are identical., journalTitle=FEBS letters, date=19690701]
+Exception: value must not be null, Abstract [pmid=11947185, title=null, value=The Peptidolipide J (CH(3)-(CH(2))(n)-CO-D Phe-L Ile-L Ile-L Phe-L Ala-O-CH(3)) is obtained also in acidic form by a chromatographic artefact. In chloroformic solutions the ester and the acid behave in a very different way: the acid has a stable conformation, as shown by the infra-red spectra and the optical rotary dispersion; this conformation is stabilized by hydrogen bonding between two peptide chains associated as a carboxylic dimer., journalTitle=FEBS letters, date=19690801]
+Exception: value must not be null, Abstract [pmid=11947186, title=null, value=N(6)-2'-O-dibutyryl cyclic AMP stimulates glycogenolysis and inhibits fatty acid synthesis in rat liver in vivo but has little effect on gluconeogenesis. In adipose tissue: it enhances lipogenesis and glycogenesis. These last effects can be explained by an increase of insulin release., journalTitle=FEBS letters, date=19690801]
+Exception: value must not be null, Abstract [pmid=11947187, title=null, value=The kinetics of methaemoglobin substitution reactions have been investigated by the stopped-flow technique. Biphasic reactions have been observed with adult and fetal methaemoglobin. This behaviour is attributed to different reactivities of the chain types. The investigations give evidence of an increasing chain reactivity in the sequence alpha-chain < beta-chain < gamma-chain. The differences increase with the size of the substituting ligand, indicating steric effects., journalTitle=FEBS letters, date=19690801]
+Exception: value must not be null, Abstract [pmid=11947221, title=null, value=This paper describes an attempt to find a difference between the patterns of methylation of E. coli tRNA by extracts of two mouse tissues. Two samples of tRNAs, methylated in two separate experiments with extracts of myeloma and of liver in presence of either 14C or 3H S-Adenosyl-L-Methionine, were pooled and fractionated together on a RPC column. The results show a difference in the specificities of the two extracts. Chromatography on DEAE Sephadex suggests that the tRNA Met is methylated by the enzymes on the myeloma, while enzymes from liver react very little, if at all, with that particular tRNA species. Studies have been undertaken in order to find out whether similar differences can also be demonstrated in homologous systems., journalTitle=FEBS letters, date=19690801]
+Exception: value must not be null, Abstract [pmid=11947275, title=null, value=A toad (Bufo bufo) hemoglobin has been purified and two types of chain have been separated by counter-current distribution. The alpha-chain has a N-terminal sequence Ac-Ala-Leu and a C-terminal sequence Tyr-Arg. The beta-chain has a N-terminal sequence Val-His-Leu and a C-terminal sequence Tyr-His., journalTitle=FEBS letters, date=19691112]
+Exception: value must not be null, Abstract [pmid=11947282, title=null, value=A new method for molecular weight determination using polyacrylamidegel electrophoresis in a linear gel-concentration-gradient (3-20 degrees ) is described. Plotting the log of molecular weights of several standard proteins against distance of migration or against 3 log of rate of n-dgration reveal linear relationships in ranges of 50.000 - 200.000 or 100.000 - 400.000 Daltons respectively. On this basis, a simple method for molecular weight determination of proteins (accuracy +/- 5 degrees ) has been devised. The method can also be applied for an individual protein in protein mixtures using specific staining procedures., journalTitle=FEBS letters, date=19691112]
+Exception: value must not be null, Abstract [pmid=11947311, title=null, value=The levels of galactosyl diglycerides and the composition of fatty acids of Spirodela oligorrhiza (Lemnaceae) plants cultivated on a nutrient containing 1% glucose were studied. Controls were grown on a medium without glucose. Between the 10(th) and the 25(th) day of growth the ether-soluble lipids of glucose-stimulated plants contained less monogalactosyl diglyceride (MG) but more digalactosyl diglyceride (DG) than controls. In the same time a marked decrease of the relative amount of C(18:3) acid and an increase of that of C(18:2) and C(16:0) acids was observed. These changes of the lipid composition might be one reason for the structural changes in the chloroplast fine structure of glucose-stimulated Spirodela plants., journalTitle=FEBS letters, date=19691230]
+Exception: value must not be null, Abstract [pmid=11947316, title=null, value=The synthesis of fatty acids in mitochondria, microsomes and supernatant of rat adipose tissue was studied after administration of U-(14)C(-) glucose. The major site of fatty acids synthesis was the supernatant in controls and the microsomes in insulin-treated animals. The action of insulin cannot be explained only by an increase of the intra-cellular penetration of glucose. An action on enzyme synthesis is probable., journalTitle=FEBS letters, date=19691230]
+Exception: value must not be null, Abstract [pmid=11947330, title=null, value=Nocardia kirovani cell walls possess a lipidic fraction, a lipolysaccharidic fraction and a peptidoglycan. The lipidic part is composed of glycerides, C(16) and C(18) free fatty acids, nocardic acids and of a carotenoid pigment. The lipopolysaccharidic part is composed of an arabinogalactan esterified by nocardic acids. The glycan strand consists of alternating 1-->4 linked N-acetylglucosamine and N-glycolylmuramic acid residues substituted by a peptide subunit in which the aminoacids Ala, Glu, meso-Dap are present in the molar proportions 1,7:1,2:1., journalTitle=FEBS letters, date=19700115]
+Exception: value must not be null, Abstract [pmid=11947343, title=null, value=The smooth microsomal fractions from Aspergillus oryzae were shown to carry out transfer of mannose from GDP-mannose to endogenous proteins acceptors. Data also are presented which support that among the subcellular fractions, only the microsomes are active in the mannose transfer reaction. All of the radioactive material chromatographs with mannose, following acid hydrolysis of microsomal fractions., journalTitle=FEBS letters, date=19700126]
+Exception: value must not be null, Abstract [pmid=11947362, title=null, value=From proinsulin-free insulin we obtained maximal purified insulin by means of preparative polyacrylamide electrophoresis (PADE). This substance appears in the analytical PADE as a uniform band and possesses glycine and phenylalanine as N-terminal amino acids. By use of the eviscerated rabbit as testing model, the product displays a higher hypoglycemic activity as compared with the Toronto standard., journalTitle=FEBS letters, date=19700216]
+Exception: value must not be null, Abstract [pmid=11947365, title=null, value=Bovine liver catalase is separated into several distinct bands by electrophoresis in a linear concentration gradient of polyacrylamide. Apparently, disc electrophoresis under these conditions leads to a series of enzymatic active forms of catalase. Their molecular weights are: 248,000; 295,000; 368,000; 486,000; 705,000 respectively. Density gradient centrifugation separates catalase into two components with molecular weights of 252,000 and 316,000. The observed differences in molecular weight distribution between gel-electrophoresis and density gradient centrifugation are discussed., journalTitle=FEBS letters, date=19700216]
+Exception: value must not be null, Abstract [pmid=11947390, title=null, value=The alkaline phosphatase of beef, horse, pig and sheep brain have been purified. In each case, the alkaline phosphatase activity can be separated into two or three components by DEAE-cellulose chromatography and by electrophoresis. Although the properties of these enzyme fractions are very similar, there are sufficient differences to identify each species.Furthermore two of the three components separated in sheep brain differ in their Michaelis constants using beta-glycerophosphate as substrate, whereas the two pig brain components are not different in this respect. This supports the view of two alkaline phosphatase isoenzymes in sheep brain., journalTitle=FEBS letters, date=19700216]
+Exception: value must not be null, Abstract [pmid=11947407, title=null, value=A method is devised for isolation of pure nucleoli, devoid of perinucleolar chromatin, from rat hepatoma in a medium of high ionic strength (I = 1, MgCl(2) = 0.33 M)., journalTitle=FEBS letters, date=19700225]
+Exception: value must not be null, Abstract [pmid=11947432, title=null, value=Several glycolipid fractions have been isolated from the bound lipids of N. brasiliensis. The main fraction was characterized as a monoester of nocardomycolic acids and D-arabinose. Fractionation of the free lipids yielded a glycolipid fraction consisting of nocardomycouc acids, arabinose, galactose and several amino acids. This last fraction appears to be similar to wax D of Mycobacteria; mild acid treatment of this fraction produced arabinose mononorcardomycolate., journalTitle=FEBS letters, date=19700316]
+Exception: value must not be null, Abstract [pmid=11947437, title=null, value=Spontaneous mutants of the bacteriophage fd and mutants resulting from fd-infected cultures of E. coli grown in the presence of 2.7-diaminofluoren and proflavin were isolated by means of free flow electrophoresis.The amino acid analyses of the mutant coat proteins (B-proteins) show significant differences in comparison with the amino acid analyses of wild type coat protein., journalTitle=FEBS letters, date=19700316]
+Exception: value must not be null, Abstract [pmid=11947462, title=null, value=In alkaline aqueous solution, the sedimentation coefficients of DeoxyHb, HbO(2) and HbCO of Lampetra fluviatilis L. are 1.9 +/- 0.1 S. This value corresponds to a molecular weight of about 17,000, i.e. the value of a single haem polypeptide chain. In weak acidic conditions, both the non-liganded DeoxyHb and the liganded forms, HbO2 and HbCO, associate to form dimers and oligomers. The monomer-oligomer transitions of these compounds take place at different pH values: DeoxyHb pHO.5 approximately 6.7; HbO(2) and HbCO pH(O.5) approximately 5.9. With respect to the association modus, the equilibrium: 4 Hb &rlhar2; 2 Hb(2)&rlhar2;Hb(4) may be preferred., journalTitle=FEBS letters, date=19700402]
+Exception: value must not be null, Abstract [pmid=11947486, title=null, value=In light or dark grown Euglena gracilis cells, the DPG content, in contrast to the PG content, is dependent on the carbon source. These results are closely related to the electron microscopy observations, showing structural changes in mitochondria varying with the carbon source of the media.Two media have been used: the first one contains L-glutamic and DL-malic acid and the second contains DL-lactic acid. The phospholipidic analysis shows that PC and PE are the two main phospholipids., journalTitle=FEBS letters, date=19700416]
+Exception: value must not be null, Abstract [pmid=11947502, title=null, value=An incubation mixture of TDP-D-glucose and a purified enzyme extract from E. coli B containing TDP-D-glucose 4,6-hydro-lyase was treated with NaB(3)H(4). Hydrolysis of the separated sugar nucleotide fraction yielded D-galactose-4-(3)H but no 3H-labelled D-glucose. This indicates the presence of TDP-4-keto-D-glucose as an intermediate in the enzymatic conversion of TDP-D-glucose to TDP-L-rhamnose. The stereospecifity of the NaB(3)H(4) reduction can only be explained if TDP-4-keto-D-glucose exists as an enzyme bound complex., journalTitle=FEBS letters, date=19700501]
+Exception: value must not be null, Abstract [pmid=11947522, title=null, value=Yeast phosphofructokinase exists in several enzymically active, interconvertible forms with molecular weights of 180,000, 370,000, 570,000 and 750,000. With disc-electrophoresis catalytically active aggregation products with molecular weights of more than one million can be detected.In alkaline media fragmentation of phosphofructokinase occurs, leading to a variety of catalytically inactive products. These seem to be oligomers of subunits with 60,000 daltons. A model of the complex subunit structure of yeast phosphofructokinase is suggested. The various catalytically active forms of the enzyme are considered as polymers of 180,000 monomers, which themselves are enzymatically active and which are composed of three 60,000 subunits., journalTitle=FEBS letters, date=19700511]
+Exception: value must not be null, Abstract [pmid=11947549, title=null, value=Kinetic properties of microsomal glucokinase of rat liver have been investigated. The enzyme is inhibited by ATP and activated or deinhibited by AMP. It displays properties associated with a typical allosteric enzyme which could realize a feedback control of glycolysis., journalTitle=FEBS letters, date=19700601]
+Exception: value must not be null, Abstract [pmid=11947550, title=null, value=The pH dependence of spin-spin coupling constants J (P-O-P) of ADP and ATP has been determined from the phosphorus NMR spectra at 0 degrees. The variation curves have been interpreted as titration curves. These give different pK values. Comparison with the tripolyphosphate shows the existence of triphosphate chain structural deformation in the nucleotides., journalTitle=FEBS letters, date=19700601]
+Exception: value must not be null, Abstract [pmid=11947552, title=null, value=Histone is able to associate with radioactive RNA to form a complex which is retained on a millipore filter; 500 &mgr;g of histone F(1) from bone marrow is able to combine with 100 &mgr;g of RNA. Chromatin acidic proteins reduce this association up to 50%. The binding between RNA and histone does not occur in the presence of urea and NaCl., journalTitle=FEBS letters, date=19700601]
+Exception: value must not be null, Abstract [pmid=11947558, title=null, value=Guinea-pig antisera to bovine insulin and proinsulin were analysed and the association constants and the concentrations of combining sites specific for insulin and for the C-chain were determined. Both antisera contained combining sites with higher (Ak(1) sites) and lower (Ak(2) sites) affinities for the cross-reacting antigens.Antisera produced in response to both insulin and proinsulin had similar concentrations of both the more affine and less affine insulin-specific binding sites. Bovine insulin contaminated with traces of proinsulin did not induce antibodies specific for the C-chain.Antisera to proinsulin contained equal amounts of high affinity binding sites specific for the C-chain and for the insulin part of the molecule. After absorption of the insulin-specific antibodies these sera can be used for the immunoassay of proinsulin., journalTitle=FEBS letters, date=19700601]
+Exception: value must not be null, Abstract [pmid=11947567, title=null, value=The turnover of terminal AMP of rat liver tRNA relative to that of internal AMP was studied in presence of various inhibitors. Actinomycin D and aflatoxin B(1), which strongly depress transcription in liver, lead to an increase of the specific radioactivity of external AMP/specific radioactivity of internal AMP ratio. On the contrary, drugs which inhibit the in vivo incorporation of aminoacids determine a significant decrease of this ratio., journalTitle=FEBS letters, date=19700608]
+Exception: value must not be null, Abstract [pmid=11947573, title=null, value=The energy-independent K(+)-H(+)-exchange was measured in intact mitochondria and submitochondrial particles at different K(+)-concentration of the incubation medium. Correlation was found between H+-displacement and specific activity of monoamine oxidase. It is concluded, that the energy-independent K(+)-H(+)-exchange is localized in the outer membrane of mitochondria., journalTitle=FEBS letters, date=19700608]
+-> Finish indexing in 5.48 seconds.
+
+-> Start reading 100000 records[page 76 of 275]
+-> Finish reading from database in 647.927 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.672 seconds.
+
+-> Start reading 100000 records[page 77 of 275]
+-> Finish reading from database in 663.734 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.361 seconds.
+
+-> Start reading 100000 records[page 78 of 275]
+-> Finish reading from database in 665.613 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.811 seconds.
+
+-> Start reading 100000 records[page 79 of 275]
+-> Finish reading from database in 646.2520000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.237 seconds.
+
+-> Start reading 100000 records[page 80 of 275]
+-> Finish reading from database in 638.986 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.0040000000000004 seconds.
+
+-> Start reading 100000 records[page 81 of 275]
+-> Finish reading from database in 686.15 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.0760000000000005 seconds.
+
+-> Start reading 100000 records[page 82 of 275]
+-> Finish reading from database in 638.88 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.906 seconds.
+
+-> Start reading 100000 records[page 83 of 275]
+-> Finish reading from database in 670.075 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.21 seconds.
+
+-> Start reading 100000 records[page 84 of 275]
+-> Finish reading from database in 683.0740000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.785 seconds.
+
+-> Start reading 100000 records[page 85 of 275]
+-> Finish reading from database in 556.5120000000001 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.093 seconds.
+
+-> Start reading 100000 records[page 86 of 275]
+-> Finish reading from database in 554.133 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 5.699 seconds.
+
+-> Start reading 100000 records[page 87 of 275]
+-> Finish reading from database in 561.013 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.195 seconds.
+
+-> Start reading 100000 records[page 88 of 275]
+-> Finish reading from database in 564.98 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.017 seconds.
+
+-> Start reading 100000 records[page 89 of 275]
+-> Finish reading from database in 562.07 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.236 seconds.
+
+-> Start reading 100000 records[page 90 of 275]
+-> Finish reading from database in 562.486 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 6.36 seconds.
+
+-> Start reading 100000 records[page 91 of 275]
+-> Finish reading from database in 556.238 seconds
+-> Start indexing 100000 pmid...
+-> Finish indexing in 8.167 seconds.
+
+-> Start reading 100000 records[page 92 of 275]
