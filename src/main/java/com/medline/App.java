@@ -1,7 +1,5 @@
 package com.medline;
 
-import java.util.Scanner;
-
 import com.medline.repository.AbstractRepository;
 import com.medline.service.Indexing;
 
@@ -21,14 +19,12 @@ public class App {
 			} else if ("-isAppend".equals(args[i])) {
 				isAppend = true;
 				i++;
-			}
+			} else if ("-pwd".equals(args[i])) {
+				pwd = args[i + 1] + "!@";
+				i++;
+			} 
 		}
 
-		Scanner sc = new Scanner(System.in);
-		System.out.print("=>Enter password for postgres: ");
-		pwd = sc.nextLine();
-		sc.close();
-		
 		System.out.println(String.format("limit:%s, pwd:%s, isAppend:%s, indexPath:%s", limit, pwd, isAppend, indexPath));
 
 		Indexing idx = new Indexing(new AbstractRepository(pwd));
