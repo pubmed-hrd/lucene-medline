@@ -45,13 +45,14 @@ public class Indexing {
 			
 			Integer totalPages = (int) Math.ceil(27_575_896/limit);
 			
-			for (int page = 1; page <= totalPages; page++) {
+			for (int page = 1; page <= 10; page++) {
 				System.out.println(String.format("-> Start reading %s records[page %s of %s]", limit, page, totalPages));
 				long start = System.currentTimeMillis();
+				
 				List<Abstract> abstracts = repository.findAllAbstracts(getLimit(), (page - 1) * getLimit());
+				
 				System.out.println(String.format("-> Finish reading from database in %s seconds", (System.currentTimeMillis() - start) * Math.pow(10, -3)));
 				addIndex(writer, abstracts);
-				
 				abstracts = null;
 			}
 			writer.close();
@@ -81,24 +82,6 @@ public class Indexing {
 			}
 		}
 		System.out.println(String.format("-> Finish indexing in %s seconds.\n", (System.currentTimeMillis() - start) * Math.pow(10, -3)));
-	}
-	
-	
-	public void addIndex(IndexWriter write, Abstract abs) throws IOException {
-
-			try{
-				Document doc = new Document();
-				if(abs.getValue() != null){
-					doc.add(new TextField("title", abs.getTitle(), Field.Store.YES));
-					doc.add(new TextField("abstract", abs.getValue(), Field.Store.YES));
-					doc.add(new TextField("journalTitle", abs.getJournalTitle(), Field.Store.YES));
-					doc.add(new StringField("date", abs.getDate(), Field.Store.YES));
-					doc.add(new StringField("pmid", abs.getPmid(), Field.Store.YES));
-					write.addDocument(doc);
-				}
-			}catch(Exception ex){
-				System.out.println("Exception: " + ex.getMessage() + ", " + abs);
-			}
 	}
 	
 	public Integer getLimit() {
